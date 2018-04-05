@@ -1,0 +1,13 @@
+In windows run cmd as Admin:
+
+Create directory:
+
+mkdir c:\mongo\data\db
+
+Install service:
+
+mongod.exe --install --logpath c:\mongo\logs --logappend --bind_ip 127.0.0.1 --dbpath c:\mongo\data\db --directoryperdb
+
+Start MongoDB:
+
+net start MongoDB
