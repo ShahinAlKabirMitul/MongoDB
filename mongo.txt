@@ -1,3 +1,4 @@
+Help to fast login
 In windows run cmd as Admin:
 
 Create directory:
