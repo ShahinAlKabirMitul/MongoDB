@@ -12,3 +12,7 @@ mongod.exe --install --logpath c:\mongo\logs --logappend --bind_ip 127.0.0.1 --d
 Start MongoDB:
 
 net start MongoDB
+
+
+install mongooes 
+ npm install mongoose
