@@ -18,8 +18,8 @@ install mongooes
  npm install mongoose
  
  
- 
-  eq(equal)
+// expression  
+eq(equal)
 ne(not equal)
 gt(greater then)
 gte(greater then or equel)
@@ -27,3 +27,11 @@ lt(less then)
 lte(less then or equal)
  in
 nin(not in)
+
+
+cmd for create db with data 
+
+mongoimport --db mongo-exercises --collection courses --drop --file exercise-data.json --jsonArray
+
+
+
