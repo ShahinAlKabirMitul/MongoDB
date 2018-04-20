@@ -16,3 +16,14 @@ net start MongoDB
 
 install mongooes 
  npm install mongoose
+ 
+ 
+ 
+  eq(equal)
+ne(not equal)
+gt(greater then)
+gte(greater then or equel)
+lt(less then)
+lte(less then or equal)
+ in
+nin(not in)
