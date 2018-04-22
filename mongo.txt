@@ -1,3 +1,8 @@
+Install mongoose 
+
+npm install --save  mongoose
+
+
 Help to fast login
 In windows run cmd as Admin:
 
