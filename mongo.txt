@@ -3,6 +3,15 @@ Install mongoose
 npm install --save  mongoose
 
 
+// connetion
+
+const mongoose = require('mongoose');
+mongoose
+  .connect('mongodb://localhost/mongo-exercises')
+  .then(() => console.log('Connedted to Mongo db database '))
+  .catch(err => console.log('Could not connect to Mongo db ....', err));
+
+
 Help to fast login
 In windows run cmd as Admin:
 
