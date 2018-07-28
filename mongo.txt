@@ -47,5 +47,8 @@ cmd for create db with data
 
 mongoimport --db mongo-exercises --collection courses --drop --file exercise-data.json --jsonArray
 
+transition 
+npm i fawn
+
 
 
