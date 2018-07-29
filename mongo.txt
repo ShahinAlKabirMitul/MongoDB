@@ -54,5 +54,7 @@ npm i joi-objectid
 
 npm i joi-password-complexity
 
+ npm i bcrypt
+
 
 
