@@ -56,5 +56,6 @@ npm i joi-password-complexity
 
  npm i bcrypt
 
+npm i jsonwebtoken
 
 
