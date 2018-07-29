@@ -52,5 +52,7 @@ npm i fawn
 
 npm i joi-objectid
 
+npm i joi-password-complexity
+
 
 
